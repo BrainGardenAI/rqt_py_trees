@@ -21,7 +21,6 @@
   <author>Naveed Usmani</author>
 
   <buildtool_depend>catkin</buildtool_depend>
-  <build_depend>py_trees</build_depend>
   <build_depend>py_trees_msgs</build_depend>
   <build_depend>rqt_bag</build_depend>
 
@@ -33,7 +32,6 @@
   <run_depend>rqt_graph</run_depend>
   <run_depend>rqt_gui</run_depend>
   <run_depend>rqt_gui_py</run_depend>
-  <run_depend>py_trees</run_depend>
   <run_depend>py_trees_msgs</run_depend>
   <run_depend>rqt_bag</run_depend>
   <run_depend>unique_id</run_depend>
